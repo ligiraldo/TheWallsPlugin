@@ -1,0 +1,73 @@
+walls:
+  wall1:
+    x1: -20
+    y1: 56
+    z1: 27
+    x2: 37
+    y2: 56
+    z2: 27
+    height: 22
+    material: BLACK_WOOL
+  wall2:
+    x1: -20
+    y1: 56
+    z1: 18
+    x2: 37
+    y2: 56
+    z2: 18
+    height: 22
+    material: BLACK_WOOL
+  wall3:
+    x1: -21
+    y1: 56
+    z1: 17
+    x2: -21
+    y2: 56
+    z2: -40
+    height: 22
+    material: BLACK_WOOL
+  wall4:
+    x1: -30
+    y1: 56
+    z1: -40
+    x2: -30
+    y2: 56
+    z2: 17
+    height: 22
+    material: BLACK_WOOL
+  wall5:
+    x1: -31
+    y1: 56
+    z1: 18
+    x2: -87
+    y2: 56
+    z2: 18
+    height: 22
+    material: BLACK_WOOL
+  wall6:
+    x1: -87
+    y1: 56
+    z1: 27
+    x2: -31
+    y2: 56
+    z2: 27
+    height: 22
+    material: BLACK_WOOL
+  wall7:
+    x1: -30
+    y1: 56
+    z1: 28
+    x2: -30
+    y2: 56
+    z2: 85
+    height: 22
+    material: BLACK_WOOL
+  wall8:
+    x1: -21
+    y1: 56
+    z1: 85
+    x2: -21
+    y2: 56
+    z2: 28
+    height: 22
+    material: BLACK_WOOL

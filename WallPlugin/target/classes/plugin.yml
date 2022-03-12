@@ -1,0 +1,5 @@
+name: WallPlugin
+version: '1.0-SNAPSHOT'
+main: ligiraldo10.me.wallplugin.WallPlugin
+api-version: 1.18
+authors: [ Stephen, Liam ]
